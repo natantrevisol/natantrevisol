@@ -7,6 +7,6 @@
 
 ##
 
-Atuo como desenvolvedor de software, sou graduado em Análise e Desenvolvimento de Sistemas e estou cursando pós-graduação em Segurança Cibernética. Utilizo em meu dia a dia tecnologias como: C#, .NET/.NET Core, Javascript/Typescript e Angular.
+Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Segurança Cibernética. Atualmente, estou realizando uma segunda graduação em Engenharia de Software e trabalho como desenvolvedor de software, utilizando diversas ferramentas para a manutenção e evolução de aplicações web. Acredito em constante aprendizado, evolução e adaptação profissional e busco sempre me aperfeiçoar nas áreas de tecnologia e desenvolvimento.
 
 ##
